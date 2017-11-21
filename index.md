@@ -10,10 +10,9 @@ programming languages and is being used in everything from data science to web d
 + [Python Anywhere](https://www.pythonanywhere.com/)
 
 #### Resources
-+ https://github.com/donnemartin/interactive-coding-challenges
++ [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
 + [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
 + [Official Python Tutorial](https://docs.python.org/3/tutorial/)
-+ []()
 
 #### E-Books
 + [Automate The Boring Stuff with Python](https://automatetheboringstuff.com/)
